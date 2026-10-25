@@ -1,0 +1,14 @@
+{
+  "name": "loggerms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "amqplib": "2.2.0"
+  }
+}
